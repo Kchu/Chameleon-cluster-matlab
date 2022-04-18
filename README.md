@@ -1,5 +1,7 @@
 Matlab implementation of the clustering algorithm CHAMELEON[1].
+
 Open Chameleon in MATLAB environment and test according to comments.
+
 Please note that we used the original .exe program from the author of the Chameleon algorithm.
 
 # Reference

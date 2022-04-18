@@ -1,6 +1,6 @@
 function hypInput = Hypinputfile(Weight, k)
 %    converting adjacency matrix to hMETIS input file format
-%    Written by Kun Chu (chukun1997@163.com), June 8th, 2018
+%    Written by Kun Chu (kun_chu@outlook.com), June 8th, 2018
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%   Input   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Weight:  Weight matrix (n*n), mutual weight between n points

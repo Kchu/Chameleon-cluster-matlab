@@ -17,7 +17,7 @@
 clear all;
 close all;
 % load('Aggregation.mat') 
-load('three_cluster.mat') 
+load('3clus.mat') 
 % load('DS3.mat');
 % data = DS3;
 data = X;
